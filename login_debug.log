@@ -1,0 +1,740 @@
+2024-11-07 05:37:50: Script started
+2024-11-07 05:37:50: Connected successfully to the database
+2024-11-07 05:37:50: Login attempt for username: krsh-admin
+2024-11-07 05:37:50: Query executed. Num rows: 1
+2024-11-07 05:37:50: User found. Stored Password: rawang.1
+2024-11-07 05:37:50: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-07 05:37:50: Redirecting to admin/home.php
+2024-11-07 05:40:00: Script started
+2024-11-07 05:40:00: Connected successfully to the database
+2024-11-07 05:40:00: Login attempt for username: krsh-admin
+2024-11-07 05:40:00: Query executed. Num rows: 1
+2024-11-07 05:40:00: User found. Stored Password: rawang.1
+2024-11-07 05:40:00: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-07 05:40:00: Redirecting to admin/home.php
+2024-11-07 05:48:36: Script started
+2024-11-07 05:48:36: Connected successfully to the database
+2024-11-07 05:48:36: Login attempt for username: krsh-admin
+2024-11-07 05:48:36: Query executed. Num rows: 1
+2024-11-07 05:48:36: User found. Stored Password: rawang.1
+2024-11-07 05:48:36: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-07 05:48:36: Redirecting to admin/home.php
+2024-11-07 09:52:52: Script started
+2024-11-07 09:52:52: Connected successfully to the database
+2024-11-07 09:52:52: Login attempt for username: adzilah
+2024-11-07 09:52:52: Query executed. Num rows: 1
+2024-11-07 09:52:52: User found. Stored Password: adzilah
+2024-11-07 09:52:52: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-07 09:52:52: Redirecting to uHome.html
+2024-11-07 09:54:20: Script started
+2024-11-07 09:54:20: Connected successfully to the database
+2024-11-07 09:54:20: Login attempt for username: adzilah
+2024-11-07 09:54:20: Query executed. Num rows: 1
+2024-11-07 09:54:20: User found. Stored Password: adzilah
+2024-11-07 09:54:20: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-07 09:54:20: Redirecting to user/home.php
+2024-11-07 12:40:24: Script started
+2024-11-07 12:40:24: Connected successfully to the database
+2024-11-07 12:40:24: Login attempt for username: adzilah
+2024-11-07 12:40:25: Query executed. Num rows: 1
+2024-11-07 12:40:25: User found. Stored Password: adzilah
+2024-11-07 12:40:25: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-07 12:40:25: Redirecting to user/home.php
+2024-11-07 13:32:09: Script started
+2024-11-07 13:32:09: Connected successfully to the database
+2024-11-07 13:32:09: Login attempt for username: adzilah
+2024-11-07 13:32:09: Query executed. Num rows: 1
+2024-11-07 13:32:09: User found. Stored Password: adzilah
+2024-11-07 13:32:09: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-07 13:32:09: Redirecting to user/home.php
+2024-11-07 16:08:38: Script started
+2024-11-07 16:08:38: Connected successfully to the database
+2024-11-07 16:08:38: Login attempt for username: adzilah
+2024-11-07 16:08:38: Query executed. Num rows: 1
+2024-11-07 16:08:38: User found. Stored Password: adzilah
+2024-11-07 16:08:38: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-07 16:08:38: Redirecting to user/home.php
+2024-11-07 16:08:47: Script started
+2024-11-07 16:08:47: Connected successfully to the database
+2024-11-07 16:08:47: Login attempt for username: adzilah
+2024-11-07 16:08:47: Query executed. Num rows: 1
+2024-11-07 16:08:47: User found. Stored Password: adzilah
+2024-11-07 16:08:47: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-07 16:08:47: Redirecting to user/home.php
+2024-11-07 16:08:57: Script started
+2024-11-07 16:08:57: Connected successfully to the database
+2024-11-07 16:08:57: Login attempt for username: krsh-admin
+2024-11-07 16:08:57: Query executed. Num rows: 1
+2024-11-07 16:08:57: User found. Stored Password: rawang.1
+2024-11-07 16:08:57: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-07 16:08:57: Redirecting to admin/home.php
+2024-11-07 16:09:36: Script started
+2024-11-07 16:09:36: Connected successfully to the database
+2024-11-07 16:09:36: Login attempt for username: krsh-admin
+2024-11-07 16:09:36: Query executed. Num rows: 1
+2024-11-07 16:09:36: User found. Stored Password: rawang.1
+2024-11-07 16:09:36: Invalid password for username: krsh-admin
+2024-11-07 16:09:36: Error occurred: Invalid username or password. Please try again.
+2024-11-07 16:15:12: Script started
+2024-11-07 16:15:12: Connected successfully to the database
+2024-11-07 16:15:12: Login attempt for username: krsh-admin
+2024-11-07 16:15:12: Query executed. Num rows: 1
+2024-11-07 16:15:12: User found. Stored Password: rawang.1
+2024-11-07 16:15:12: Invalid password for username: krsh-admin
+2024-11-07 16:15:12: Error occurred: Invalid username or password
+2024-11-07 16:15:13: Script started
+2024-11-07 16:15:13: Connected successfully to the database
+2024-11-07 16:15:13: Login attempt for username: aina
+2024-11-07 16:15:13: Query executed. Num rows: 0
+2024-11-07 16:15:13: User not found
+2024-11-07 16:15:13: Error occurred: Invalid username or password
+2024-11-07 16:15:16: Script started
+2024-11-07 16:15:16: Connected successfully to the database
+2024-11-07 16:15:16: Login attempt for username: aina
+2024-11-07 16:15:16: Query executed. Num rows: 0
+2024-11-07 16:15:16: User not found
+2024-11-07 16:15:16: Error occurred: Invalid username or password
+2024-11-08 01:48:21: Script started
+2024-11-08 01:48:21: Connected successfully to the database
+2024-11-08 01:48:21: Login attempt for username: adzilah
+2024-11-08 01:48:21: Query executed. Num rows: 1
+2024-11-08 01:48:21: User found. Stored Password: adzilah
+2024-11-08 01:48:21: Invalid password for username: adzilah
+2024-11-08 01:48:21: Error occurred: Invalid username or password
+2024-11-08 01:48:31: Script started
+2024-11-08 01:48:31: Connected successfully to the database
+2024-11-08 01:48:31: Login attempt for username: adzilah
+2024-11-08 01:48:31: Query executed. Num rows: 1
+2024-11-08 01:48:31: User found. Stored Password: adzilah
+2024-11-08 01:48:31: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 01:48:31: Redirecting to user/home.php
+2024-11-08 02:01:51: Script started
+2024-11-08 02:01:51: Connected successfully to the database
+2024-11-08 02:01:51: Login attempt for username: krsh-admin
+2024-11-08 02:01:51: Query executed. Num rows: 1
+2024-11-08 02:01:51: User found. Stored Password: rawang.1
+2024-11-08 02:01:51: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 02:01:51: Redirecting to admin/home.php
+2024-11-08 02:30:17: Script started
+2024-11-08 02:30:17: Connected successfully to the database
+2024-11-08 02:30:17: Login attempt for username: krsh-admin
+2024-11-08 02:30:17: Query executed. Num rows: 1
+2024-11-08 02:30:17: User found. Stored Password: rawang.1
+2024-11-08 02:30:17: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 02:30:17: Redirecting to admin/home.php
+2024-11-08 04:32:13: Script started
+2024-11-08 04:32:13: Connected successfully to the database
+2024-11-08 04:32:13: Login attempt for username: krsh-admin
+2024-11-08 04:32:13: Query executed. Num rows: 1
+2024-11-08 04:32:13: User found. Stored Password: rawang.1
+2024-11-08 04:32:13: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 04:32:13: Redirecting to admin/home.php
+2024-11-08 04:34:48: Script started
+2024-11-08 04:34:48: Connected successfully to the database
+2024-11-08 04:34:48: Login attempt for username: adzilah
+2024-11-08 04:34:48: Query executed. Num rows: 1
+2024-11-08 04:34:48: User found. Stored Password: adzilah
+2024-11-08 04:34:48: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 04:34:48: Redirecting to user/home.php
+2024-11-08 04:51:54: Script started
+2024-11-08 04:51:54: Connected successfully to the database
+2024-11-08 04:51:54: Login attempt for username: krsh-admin
+2024-11-08 04:51:54: Query executed. Num rows: 1
+2024-11-08 04:51:54: User found. Stored Password: rawang.1
+2024-11-08 04:51:54: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 04:51:54: Redirecting to admin/home.php
+2024-11-08 04:52:03: Script started
+2024-11-08 04:52:03: Connected successfully to the database
+2024-11-08 04:52:03: Login attempt for username: adzilah
+2024-11-08 04:52:03: Query executed. Num rows: 1
+2024-11-08 04:52:03: User found. Stored Password: adzilah
+2024-11-08 04:52:03: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 04:52:03: Redirecting to user/home.php
+2024-11-08 07:33:12: Script started
+2024-11-08 07:33:12: Connected successfully to the database
+2024-11-08 07:33:12: Login attempt for username: krsh-admin
+2024-11-08 07:33:12: Query executed. Num rows: 1
+2024-11-08 07:33:12: User found. Stored Password: rawang.1
+2024-11-08 07:33:12: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 07:33:12: Redirecting to admin/home.php
+2024-11-08 07:36:01: Script started
+2024-11-08 07:36:01: Connected successfully to the database
+2024-11-08 07:36:01: Login attempt for username: krsh-admin
+2024-11-08 07:36:01: Query executed. Num rows: 1
+2024-11-08 07:36:01: User found. Stored Password: rawang.1
+2024-11-08 07:36:01: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 07:36:01: Redirecting to admin/home.php
+2024-11-08 07:36:37: Script started
+2024-11-08 07:36:37: Connected successfully to the database
+2024-11-08 07:36:37: Login attempt for username: adzilah
+2024-11-08 07:36:37: Query executed. Num rows: 1
+2024-11-08 07:36:37: User found. Stored Password: adzilah
+2024-11-08 07:36:37: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 07:36:37: Redirecting to user/home.php
+2024-11-08 07:46:11: Script started
+2024-11-08 07:46:12: Connected successfully to the database
+2024-11-08 07:46:12: Login attempt for username: krsh-admin
+2024-11-08 07:46:12: Query executed. Num rows: 1
+2024-11-08 07:46:12: User found. Checking password
+2024-11-08 07:46:12: Login successful. UserLevel: Admin
+2024-11-08 07:46:12: Redirecting to admin/home.php
+2024-11-08 07:48:55: Script started
+2024-11-08 07:48:55: Connected successfully to the database
+2024-11-08 07:48:55: Login attempt for username: krsh-admin
+2024-11-08 07:48:55: Query executed. Num rows: 1
+2024-11-08 07:48:55: User found. Checking password
+2024-11-08 07:48:56: Login successful. UserLevel: Admin
+2024-11-08 07:48:56: Redirecting to admin/home.php
+2024-11-08 08:02:55: Script started
+2024-11-08 08:02:55: Connected successfully to the database
+2024-11-08 08:02:55: Login attempt for username: krsh-admin
+2024-11-08 08:02:55: Query executed. Num rows: 1
+2024-11-08 08:02:55: User found. Checking password
+2024-11-08 08:02:55: Invalid password
+2024-11-08 08:02:55: Error occurred: Invalid username or password
+2024-11-08 08:03:06: Script started
+2024-11-08 08:03:06: Connected successfully to the database
+2024-11-08 08:03:06: Login attempt for username: krsh-admin
+2024-11-08 08:03:06: Query executed. Num rows: 1
+2024-11-08 08:03:06: User found. Checking password
+2024-11-08 08:03:06: Login successful. UserLevel: Admin
+2024-11-08 08:03:06: Redirecting to admin/home.php
+2024-11-08 08:05:11: Script started
+2024-11-08 08:05:11: Connected successfully to the database
+2024-11-08 08:05:11: Login attempt for username: krsh-admin
+2024-11-08 08:05:11: Query executed. Num rows: 1
+2024-11-08 08:05:11: User found. Checking password
+2024-11-08 08:05:11: Login successful. UserLevel: Admin
+2024-11-08 08:05:11: Redirecting to admin/home.php
+2024-11-08 08:35:07: Script started
+2024-11-08 08:35:07: Connected successfully to the database
+2024-11-08 08:35:07: Login attempt for username: adzilah
+2024-11-08 08:35:07: Query executed. Num rows: 1
+2024-11-08 08:35:07: User found. Stored Password: adzilah
+2024-11-08 08:35:07: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 08:35:07: Redirecting to user/home.php
+2024-11-08 08:36:06: Script started
+2024-11-08 08:36:06: Connected successfully to the database
+2024-11-08 08:36:06: Login attempt for username: adzilah
+2024-11-08 08:36:06: Query executed. Num rows: 1
+2024-11-08 08:36:06: User found. Stored Password: adzilah
+2024-11-08 08:36:06: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 08:36:06: Redirecting to user/home.php
+2024-11-08 08:36:26: Script started
+2024-11-08 08:36:26: Connected successfully to the database
+2024-11-08 08:36:26: Login attempt for username: krsh-admin
+2024-11-08 08:36:26: Query executed. Num rows: 1
+2024-11-08 08:36:26: User found. Stored Password: rawang.1
+2024-11-08 08:36:26: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 08:36:26: Redirecting to admin/home.php
+2024-11-08 08:38:33: Script started
+2024-11-08 08:38:33: Connected successfully to the database
+2024-11-08 08:38:33: Login attempt for username: adzilah
+2024-11-08 08:38:33: Query executed. Num rows: 1
+2024-11-08 08:38:33: User found. Stored Password: adzilah
+2024-11-08 08:38:33: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 08:38:33: Redirecting to user/home.php
+2024-11-08 08:54:42: Script started
+2024-11-08 08:54:42: Connected successfully to the database
+2024-11-08 08:54:42: Login attempt for username: krsh-admin
+2024-11-08 08:54:42: Query executed. Num rows: 1
+2024-11-08 08:54:42: User found. Stored Password: rawang.1
+2024-11-08 08:54:42: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 08:54:42: Redirecting to admin/home.php
+2024-11-08 09:23:46: Script started
+2024-11-08 09:23:46: Connected successfully to the database
+2024-11-08 09:23:47: Login attempt for username: krsh-admin
+2024-11-08 09:23:47: Query executed. Num rows: 1
+2024-11-08 09:23:47: User found. Stored Password: rawang.1
+2024-11-08 09:25:36: Script started
+2024-11-08 09:25:36: Connected successfully to the database
+2024-11-08 09:25:36: Login attempt for username: krsh-admin
+2024-11-08 09:25:36: Query executed. Num rows: 1
+2024-11-08 09:25:36: User found. Stored Password: rawang.1
+2024-11-08 09:25:36: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:25:36: Redirecting to admin/home.php
+2024-11-08 09:26:34: Script started
+2024-11-08 09:26:34: Connected successfully to the database
+2024-11-08 09:26:34: Login attempt for username: krsh-admin
+2024-11-08 09:26:34: Query executed. Num rows: 1
+2024-11-08 09:26:34: User found. Stored Password: rawang.1
+2024-11-08 09:26:34: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:26:34: Redirecting to admin/home.php
+2024-11-08 09:29:34: Script started
+2024-11-08 09:29:34: Connected successfully to the database
+2024-11-08 09:29:34: Login attempt for username: krsh-admin
+2024-11-08 09:29:34: Query executed. Num rows: 1
+2024-11-08 09:29:34: User found. Stored Password: rawang.1
+2024-11-08 09:29:34: Session data set. UserLevel: , StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:29:34: Redirecting to admin/home.php
+2024-11-08 09:30:03: Script started
+2024-11-08 09:30:03: Connected successfully to the database
+2024-11-08 09:30:03: Login attempt for username: krsh-admin
+2024-11-08 09:30:03: Query executed. Num rows: 1
+2024-11-08 09:30:03: User found. Stored Password: rawang.1
+2024-11-08 09:30:03: Session data set. UserLevel: , StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:30:03: Redirecting to admin/home.php
+2024-11-08 09:30:35: Script started
+2024-11-08 09:30:35: Connected successfully to the database
+2024-11-08 09:30:36: Login attempt for username: krsh-admin
+2024-11-08 09:30:36: Query executed. Num rows: 1
+2024-11-08 09:30:36: User found. Stored Password: rawang.1
+2024-11-08 09:30:36: Session data set. UserLevel: , StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:30:36: Redirecting to admin/home.php
+2024-11-08 09:32:57: Script started
+2024-11-08 09:32:57: Connected successfully to the database
+2024-11-08 09:32:57: Login attempt for username: adzilah
+2024-11-08 09:32:57: Query executed. Num rows: 1
+2024-11-08 09:32:57: User found. Stored Password: adzilah
+2024-11-08 09:32:57: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 09:32:57: Redirecting to user/home.php
+2024-11-08 09:33:12: Script started
+2024-11-08 09:33:12: Connected successfully to the database
+2024-11-08 09:33:12: Login attempt for username: krsh-admin
+2024-11-08 09:33:12: Query executed. Num rows: 1
+2024-11-08 09:33:12: User found. Stored Password: rawang.1
+2024-11-08 09:33:12: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:33:12: Redirecting to admin/home.php
+2024-11-08 09:37:09: Script started
+2024-11-08 09:37:09: Connected successfully to the database
+2024-11-08 09:37:09: Login attempt for username: adzilah
+2024-11-08 09:37:09: Query executed. Num rows: 1
+2024-11-08 09:37:09: User found. Stored Password: adzilah
+2024-11-08 09:37:09: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 09:37:09: Redirecting to user/home.php
+2024-11-08 09:41:05: Script started
+2024-11-08 09:41:05: Connected successfully to the database
+2024-11-08 09:41:05: Login attempt for username: adzilah
+2024-11-08 09:41:05: Query executed. Num rows: 1
+2024-11-08 09:41:05: User found. Stored Password: adzilah
+2024-11-08 09:41:05: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 09:41:05: Redirecting to user/home.php
+2024-11-08 09:48:20: Script started
+2024-11-08 09:48:20: Connected successfully to the database
+2024-11-08 09:48:20: Login attempt for username: krsh-admin
+2024-11-08 09:48:20: Query executed. Num rows: 1
+2024-11-08 09:48:20: User found. Stored Password: rawang.1
+2024-11-08 09:48:20: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:48:20: Redirecting to admin/home.php
+2024-11-08 09:49:44: Script started
+2024-11-08 09:49:44: Connected successfully to the database
+2024-11-08 09:49:44: Login attempt for username: adzilah
+2024-11-08 09:49:44: Query executed. Num rows: 1
+2024-11-08 09:49:44: User found. Stored Password: adzilah
+2024-11-08 09:49:44: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-08 09:49:45: Redirecting to user/home.php
+2024-11-08 09:57:49: Script started
+2024-11-08 09:57:49: Connected successfully to the database
+2024-11-08 09:57:49: Login attempt for username: krsh-admin
+2024-11-08 09:57:49: Query executed. Num rows: 1
+2024-11-08 09:57:49: User found. Stored Password: rawang.1
+2024-11-08 09:57:49: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-08 09:57:49: Redirecting to admin/home.php
+2024-11-09 11:09:47: Script started
+2024-11-09 11:09:47: Connected successfully to the database
+2024-11-09 11:09:47: Login attempt for username: krsh-admin
+2024-11-09 11:09:47: Query executed. Num rows: 1
+2024-11-09 11:09:47: User found. Stored Password: rawang.1
+2024-11-09 11:09:47: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-09 11:09:47: Redirecting to admin/home.php
+2024-11-09 11:37:32: Script started
+2024-11-09 11:37:32: Connected successfully to the database
+2024-11-09 11:37:32: Login attempt for username: krsh-admin
+2024-11-09 11:37:32: Query executed. Num rows: 1
+2024-11-09 11:37:32: User found. Stored Password: rawang.1
+2024-11-09 11:37:32: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-09 11:37:32: Redirecting to admin/home.php
+2024-11-09 12:57:40: Script started
+2024-11-09 12:57:40: Connected successfully to the database
+2024-11-09 12:57:40: Login attempt for username: adzilah
+2024-11-09 12:57:40: Query executed. Num rows: 1
+2024-11-09 12:57:40: User found. Stored Password: adzilah
+2024-11-09 12:57:40: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-09 12:57:40: Redirecting to user/home.php
+2024-11-09 14:51:52: Script started
+2024-11-09 14:51:52: Connected successfully to the database
+2024-11-09 14:51:52: Login attempt for username: krsh-admin
+2024-11-09 14:51:52: Query executed. Num rows: 1
+2024-11-09 14:51:52: User found. Stored Password: rawang.1
+2024-11-09 14:51:52: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-09 14:51:52: Redirecting to admin/home.php
+2024-11-09 18:41:36: Script started
+2024-11-09 18:41:36: Connected successfully to the database
+2024-11-09 18:41:36: Login attempt for username: aina
+2024-11-09 18:41:36: Query executed. Num rows: 1
+2024-11-09 18:41:36: User found. Stored Password: aina123
+2024-11-09 18:41:36: Session data set. UserLevel: user, StaffName: wkmsklwms, ServiceName: SPD
+2024-11-09 18:41:36: Redirecting to user/home.php
+2024-11-09 18:42:35: Script started
+2024-11-09 18:42:35: Connected successfully to the database
+2024-11-09 18:42:35: Login attempt for username: aina
+2024-11-09 18:42:35: Query executed. Num rows: 1
+2024-11-09 18:42:35: User found. Stored Password: aina123
+2024-11-09 18:42:35: Session data set. UserLevel: user, StaffName: wkmsklwms, ServiceName: SPD
+2024-11-09 18:42:35: Redirecting to user/home.php
+2024-11-09 18:51:10: Script started
+2024-11-09 18:51:10: Connected successfully to the database
+2024-11-09 18:51:10: Login attempt for username: ainam
+2024-11-09 18:51:10: Query executed. Num rows: 1
+2024-11-09 18:51:10: User found. Stored Password: aina123
+2024-11-09 18:51:10: Session data set. UserLevel: User, StaffName: sbsds, ServiceName: Medical Ward
+2024-11-09 18:51:10: Redirecting to user/home.php
+2024-11-09 19:15:51: Script started
+2024-11-09 19:15:51: Connected successfully to the database
+2024-11-09 19:15:51: Login attempt for username: addlin
+2024-11-09 19:15:51: Query executed. Num rows: 1
+2024-11-09 19:15:51: User found. Stored Password: rawang.123
+2024-11-09 19:15:51: Invalid password for username: addlin
+2024-11-09 19:15:51: Error occurred: Invalid username or password
+2024-11-09 19:16:13: Script started
+2024-11-09 19:16:13: Connected successfully to the database
+2024-11-09 19:16:13: Login attempt for username: addlin
+2024-11-09 19:16:13: Query executed. Num rows: 1
+2024-11-09 19:16:13: User found. Stored Password: rawang.123
+2024-11-09 19:16:13: Invalid password for username: addlin
+2024-11-09 19:16:13: Error occurred: Invalid username or password
+2024-11-09 19:16:36: Script started
+2024-11-09 19:16:36: Connected successfully to the database
+2024-11-09 19:16:36: Login attempt for username: addlin
+2024-11-09 19:16:36: Query executed. Num rows: 1
+2024-11-09 19:16:36: User found. Stored Password: rawang.123
+2024-11-09 19:16:36: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-09 19:16:36: Redirecting to user/home.php
+2024-11-09 19:19:40: Script started
+2024-11-09 19:19:40: Connected successfully to the database
+2024-11-09 19:19:40: Login attempt for username: aina
+2024-11-09 19:19:40: Query executed. Num rows: 1
+2024-11-09 19:19:40: User found. Stored Password: aina123
+2024-11-09 19:19:40: Session data set. UserLevel: user, StaffName: wkmsklwms, ServiceName: SPD
+2024-11-09 19:19:40: Redirecting to user/home.php
+2024-11-09 19:21:21: Script started
+2024-11-09 19:21:21: Connected successfully to the database
+2024-11-09 19:21:21: Login attempt for username: addlin
+2024-11-09 19:21:21: Query executed. Num rows: 1
+2024-11-09 19:21:21: User found. Stored Password: rawang.123
+2024-11-09 19:21:21: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-09 19:21:21: Redirecting to user/home.php
+2024-11-09 19:27:32: Script started
+2024-11-09 19:27:32: Connected successfully to the database
+2024-11-09 19:27:32: Login attempt for username: aina
+2024-11-09 19:27:32: Query executed. Result: User found
+2024-11-09 19:27:32: Session data set. UserLevel: user, StaffName: wkmsklwms, ServiceName: SPD
+2024-11-09 19:27:32: Redirecting to user/home.php
+2024-11-09 19:28:09: Script started
+2024-11-09 19:28:09: Connected successfully to the database
+2024-11-09 19:28:09: Login attempt for username: addlin
+2024-11-09 19:28:09: Query executed. Result: User found
+2024-11-09 19:28:09: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-09 19:28:09: Redirecting to user/home.php
+2024-11-09 19:29:27: Script started
+2024-11-09 19:29:27: Connected successfully to the database
+2024-11-09 19:29:27: Login attempt for username: krsh-admin
+2024-11-09 19:29:27: Query executed. Result: User found
+2024-11-09 19:29:27: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-09 19:29:27: Redirecting to admin/home.php
+2024-11-10 01:25:58: Script started
+2024-11-10 01:25:58: Connected successfully to the database
+2024-11-10 01:25:58: Login attempt for username: adzillah
+2024-11-10 01:25:58: Query executed. Result: User not found
+2024-11-10 01:25:58: Invalid credentials for username: adzillah
+2024-11-10 01:25:58: Error occurred: Invalid username or password
+2024-11-10 01:26:12: Script started
+2024-11-10 01:26:12: Connected successfully to the database
+2024-11-10 01:26:12: Login attempt for username: adzilah
+2024-11-10 01:26:12: Query executed. Result: User found
+2024-11-10 01:26:12: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 01:26:12: Redirecting to user/home.php
+2024-11-10 01:26:44: Script started
+2024-11-10 01:26:44: Connected successfully to the database
+2024-11-10 01:26:44: Login attempt for username: addlin
+2024-11-10 01:26:44: Query executed. Result: User found
+2024-11-10 01:26:44: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-10 01:26:44: Redirecting to user/home.php
+2024-11-10 01:35:03: Script started
+2024-11-10 01:35:03: Connected successfully to the database
+2024-11-10 01:35:03: Login attempt for username: adzilah
+2024-11-10 01:35:03: Query executed. Result: User found
+2024-11-10 01:35:03: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 01:35:03: Redirecting to user/home.php
+2024-11-10 01:35:40: Script started
+2024-11-10 01:35:40: Connected successfully to the database
+2024-11-10 01:35:40: Login attempt for username: addlin
+2024-11-10 01:35:40: Query executed. Result: User found
+2024-11-10 01:35:40: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-10 01:35:40: Redirecting to user/home.php
+2024-11-10 01:48:28: Script started
+2024-11-10 01:48:28: Connected successfully to the database
+2024-11-10 01:48:28: Login attempt for username: adzilah
+2024-11-10 01:48:28: Query executed. Result: User found
+2024-11-10 01:48:28: New session created for user adzilah with ID bcjkkc83825mupi2ekchv7g6kt
+2024-11-10 01:48:28: Redirecting to user/home.php
+2024-11-10 01:50:32: Script started
+2024-11-10 01:50:32: Connected successfully to the database
+2024-11-10 01:50:32: Login attempt for username: addlin
+2024-11-10 01:50:32: Query executed. Result: User found
+2024-11-10 01:50:32: New session created for user addlin with ID lp6p0t4o8mh8lgr1jhp5940aqe
+2024-11-10 01:50:32: Redirecting to user/home.php
+2024-11-10 01:54:02: Script started
+2024-11-10 01:54:02: Connected successfully to the database
+2024-11-10 01:54:02: Login attempt for username: adzilah
+2024-11-10 01:54:02: Query executed. Result: User found
+2024-11-10 01:54:02: New session created for user adzilah with ID ko7vv2ic2bri4n47eg3q5g2fe8
+2024-11-10 01:54:02: Redirecting to user/home.php
+2024-11-10 01:54:24: Script started
+2024-11-10 01:54:24: Connected successfully to the database
+2024-11-10 01:54:24: Login attempt for username: addlin
+2024-11-10 01:54:24: Query executed. Result: User found
+2024-11-10 01:54:24: New session created for user addlin with ID glp41v02tvimbslihdd9n28em4
+2024-11-10 01:54:24: Redirecting to user/home.php
+2024-11-10 03:03:51: Script started
+2024-11-10 03:03:51: Connected successfully to the database
+2024-11-10 03:03:51: Login attempt for username: adzilah
+2024-11-10 03:03:51: Query executed. Num rows: 1
+2024-11-10 03:03:51: User found. Stored Password: adzilah
+2024-11-10 03:03:51: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 03:03:51: Redirecting to user/home.php
+2024-11-10 03:04:38: Script started
+2024-11-10 03:04:38: Connected successfully to the database
+2024-11-10 03:04:38: Login attempt for username: krsh-admin
+2024-11-10 03:04:38: Query executed. Num rows: 1
+2024-11-10 03:04:38: User found. Stored Password: rawang.1
+2024-11-10 03:04:38: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-10 03:04:38: Redirecting to admin/home.php
+2024-11-10 03:09:17: Script started
+2024-11-10 03:09:17: Connected successfully to the database
+2024-11-10 03:09:17: Login attempt for username: adzilah
+2024-11-10 03:09:17: Query executed. Num rows: 1
+2024-11-10 03:09:17: User found. Stored Password: adzilah
+2024-11-10 03:09:17: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 03:09:17: Redirecting to user/home.php
+2024-11-10 03:09:41: Script started
+2024-11-10 03:09:41: Connected successfully to the database
+2024-11-10 03:09:41: Login attempt for username: addlin
+2024-11-10 03:09:41: Query executed. Num rows: 1
+2024-11-10 03:09:41: User found. Stored Password: rawang.123
+2024-11-10 03:09:41: Invalid password for username: addlin
+2024-11-10 03:09:41: Error occurred: Invalid username or password
+2024-11-10 03:09:49: Script started
+2024-11-10 03:09:49: Connected successfully to the database
+2024-11-10 03:09:49: Login attempt for username: addlin
+2024-11-10 03:09:49: Query executed. Num rows: 1
+2024-11-10 03:09:49: User found. Stored Password: rawang.123
+2024-11-10 03:09:49: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-10 03:09:49: Redirecting to user/home.php
+2024-11-10 03:12:32: Script started
+2024-11-10 03:12:32: Connected successfully to the database
+2024-11-10 03:12:32: Login attempt for username: adzilah
+2024-11-10 03:12:32: Query executed. Num rows: 1
+2024-11-10 03:12:32: User found. Stored Password: adzilah
+2024-11-10 03:12:32: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 03:12:32: Redirecting to user/home.php
+2024-11-10 03:13:01: Script started
+2024-11-10 03:13:01: Connected successfully to the database
+2024-11-10 03:13:01: Login attempt for username: addlin
+2024-11-10 03:13:01: Query executed. Num rows: 1
+2024-11-10 03:13:01: User found. Stored Password: rawang.123
+2024-11-10 03:13:01: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-10 03:13:01: Redirecting to user/home.php
+2024-11-10 03:19:17: Script started
+2024-11-10 03:19:17: Connected successfully to the database
+2024-11-10 03:19:17: Login attempt for username: adzilah
+2024-11-10 03:19:17: Query executed. Num rows: 1
+2024-11-10 03:19:17: User found. Stored Password: adzilah
+2024-11-10 03:19:17: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 03:19:17: Redirecting to user/home.php
+2024-11-10 03:19:50: Script started
+2024-11-10 03:19:50: Connected successfully to the database
+2024-11-10 03:19:50: Login attempt for username: addlin
+2024-11-10 03:19:50: Query executed. Num rows: 1
+2024-11-10 03:19:50: User found. Stored Password: rawang.123
+2024-11-10 03:19:50: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-10 03:19:50: Redirecting to user/home.php
+2024-11-10 03:25:20: Script started
+2024-11-10 03:25:20: Connected successfully to the database
+2024-11-10 03:25:20: Login attempt for username: adzilah
+2024-11-10 03:25:20: Query executed. Num rows: 1
+2024-11-10 03:25:20: User found. Stored Password: adzilah
+2024-11-10 03:25:20: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 03:25:20: Redirecting to user/home.php
+2024-11-10 03:27:41: Script started
+2024-11-10 03:27:41: Connected successfully to the database
+2024-11-10 03:27:41: Login attempt for username: addlin
+2024-11-10 03:27:41: Query executed. Num rows: 1
+2024-11-10 03:27:41: User found. Stored Password: rawang.123
+2024-11-10 03:27:41: Session data set. UserLevel: User, StaffName: Nurul Addlin Amalia Binti Ahmad Fuad, ServiceName: Talent Management Services
+2024-11-10 03:27:41: Redirecting to user/home.php
+2024-11-10 05:56:30: Script started
+2024-11-10 05:56:30: Connected successfully to the database
+2024-11-10 05:56:30: Login attempt for username: adzilah
+2024-11-10 05:56:30: Query executed. Num rows: 1
+2024-11-10 05:56:30: User found. Stored Password: adzilah
+2024-11-10 05:56:30: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 05:56:30: Redirecting to user/home.php
+2024-11-10 05:58:02: Script started
+2024-11-10 05:58:02: Connected successfully to the database
+2024-11-10 05:58:02: Login attempt for username: krsh-admin
+2024-11-10 05:58:02: Query executed. Num rows: 1
+2024-11-10 05:58:02: User found. Stored Password: rawang.1
+2024-11-10 05:58:02: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-10 05:58:02: Redirecting to admin/home.php
+2024-11-10 06:12:18: Script started
+2024-11-10 06:12:18: Connected successfully to the database
+2024-11-10 06:12:18: Login attempt for username: ainah
+2024-11-10 06:12:18: Query executed. Num rows: 1
+2024-11-10 06:12:18: User found. Stored Password: aina123
+2024-11-10 06:12:18: Session data set. UserLevel: User, StaffName: try, ServiceName: Medical Ward
+2024-11-10 06:12:18: Redirecting to user/home.php
+2024-11-10 06:20:25: Script started
+2024-11-10 06:20:26: Connected successfully to the database
+2024-11-10 06:20:26: Login attempt for username: addlin
+2024-11-10 06:20:26: Query executed. Num rows: 1
+2024-11-10 06:20:26: User found. Verifying password...
+2024-11-10 06:20:26: Invalid password for username: addlin
+2024-11-10 06:20:26: Error occurred: Invalid username or password
+2024-11-10 06:20:34: Script started
+2024-11-10 06:20:34: Connected successfully to the database
+2024-11-10 06:20:34: Login attempt for username: addlin
+2024-11-10 06:20:34: Query executed. Num rows: 1
+2024-11-10 06:20:34: User found. Verifying password...
+2024-11-10 06:21:24: Script started
+2024-11-10 06:21:24: Connected successfully to the database
+2024-11-10 06:21:24: Login attempt for username: addlin
+2024-11-10 06:21:24: Query executed. Num rows: 1
+2024-11-10 06:21:24: User found. Verifying password...
+2024-11-10 06:21:24: Session established for user: addlin
+2024-11-10 06:21:54: Script started
+2024-11-10 06:21:54: Connected successfully to the database
+2024-11-10 06:21:54: Login attempt for username: adzilah
+2024-11-10 06:21:54: Query executed. Num rows: 1
+2024-11-10 06:21:54: User found. Verifying password...
+2024-11-10 06:21:54: Session established for user: adzilah
+2024-11-10 06:24:13: Script started
+2024-11-10 06:24:13: Connected successfully to the database
+2024-11-10 06:24:13: Login attempt for username: addlin
+2024-11-10 06:24:13: Query executed. Num rows: 1
+2024-11-10 06:24:13: User found. Verifying password...
+2024-11-10 06:24:13: Session established for user: addlin
+2024-11-10 06:31:25: Script started
+2024-11-10 06:31:25: Connected successfully to the database
+2024-11-10 06:31:25: Login attempt for username: adzilah
+2024-11-10 06:31:25: Query executed. Num rows: 1
+2024-11-10 06:31:25: User found. Verifying password...
+2024-11-10 06:31:25: Session established for user: adzilah
+2024-11-10 07:58:25: Script started
+2024-11-10 07:58:25: Connected successfully to the database
+2024-11-10 07:58:25: Login attempt for username: addlin
+2024-11-10 07:58:25: Query executed. Num rows: 1
+2024-11-10 07:58:25: User found. Verifying password...
+2024-11-10 07:58:25: Session established for user: addlin
+2024-11-10 08:01:39: Script started
+2024-11-10 08:01:39: Connected successfully to the database
+2024-11-10 08:01:39: Login attempt for username: adzilah
+2024-11-10 08:01:39: Query executed. Num rows: 1
+2024-11-10 08:01:39: User found. Stored Password: adzilah
+2024-11-10 08:01:39: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 08:01:39: Redirecting to user/home.php
+2024-11-10 08:08:27: Script started
+2024-11-10 08:08:27: Connected successfully to the database
+2024-11-10 08:08:27: Login attempt for username: krsh-admin
+2024-11-10 08:08:27: Query executed. Num rows: 1
+2024-11-10 08:08:27: User found. Stored Password: rawang.1
+2024-11-10 08:08:27: Invalid password for username: krsh-admin
+2024-11-10 08:08:27: Error occurred: Invalid username or password
+2024-11-10 08:08:39: Script started
+2024-11-10 08:08:39: Connected successfully to the database
+2024-11-10 08:08:39: Login attempt for username: krsh-admin
+2024-11-10 08:08:39: Query executed. Num rows: 1
+2024-11-10 08:08:39: User found. Stored Password: rawang.1
+2024-11-10 08:08:39: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-10 08:08:39: Redirecting to admin/home.php
+2024-11-10 08:12:25: Script started
+2024-11-10 08:12:25: Connected successfully to the database
+2024-11-10 08:12:25: Login attempt for username: adzilah
+2024-11-10 08:12:25: Query executed. Num rows: 1
+2024-11-10 08:12:25: User found. Stored Password: adzilah
+2024-11-10 08:12:25: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-10 08:12:25: Redirecting to user/home.php
+2024-11-10 08:18:32: Script started
+2024-11-10 08:18:32: Connected successfully to the database
+2024-11-10 08:18:32: Login attempt for username: krsh-admin
+2024-11-10 08:18:32: Query executed. Num rows: 1
+2024-11-10 08:18:32: User found. Stored Password: rawang.1
+2024-11-10 08:18:32: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-10 08:18:32: Redirecting to admin/home.php
+2024-11-10 08:22:23: Script started
+2024-11-10 08:22:23: Connected successfully to the database
+2024-11-10 08:22:23: Login attempt for username: krsh-admin
+2024-11-10 08:22:23: Query executed. Num rows: 1
+2024-11-10 08:22:23: User found. Stored Password: rawang.1
+2024-11-10 08:22:23: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-10 08:22:23: Redirecting to admin/home.php
+2024-11-11 01:38:53: Script started
+2024-11-11 01:38:53: Connected successfully to the database
+2024-11-11 01:38:53: Login attempt for username: krsh-admin
+2024-11-11 01:38:53: Query executed. Num rows: 1
+2024-11-11 01:38:53: User found. Stored Password: rawang.1
+2024-11-11 01:38:53: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:38:53: Redirecting to admin/home.php
+2024-11-11 01:39:32: Script started
+2024-11-11 01:39:32: Connected successfully to the database
+2024-11-11 01:39:32: Login attempt for username: adzilah
+2024-11-11 01:39:32: Query executed. Num rows: 1
+2024-11-11 01:39:32: User found. Stored Password: adzilah
+2024-11-11 01:39:32: Session data set. UserLevel: User, StaffName: Noor Adzilah Binti Md Desa, ServiceName: Administration
+2024-11-11 01:39:32: Redirecting to user/home.php
+2024-11-11 01:49:35: Script started
+2024-11-11 01:49:35: Connected successfully to the database
+2024-11-11 01:49:35: Login attempt for username: krsh-admin
+2024-11-11 01:49:35: Query executed. Num rows: 1
+2024-11-11 01:49:35: User found. Stored Password: rawang.1
+2024-11-11 01:49:35: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:49:35: Redirecting to admin/home.php
+2024-11-11 01:50:48: Script started
+2024-11-11 01:50:48: Connected successfully to the database
+2024-11-11 01:50:48: Login attempt for username: krsh-admin
+2024-11-11 01:50:48: Query executed. Num rows: 1
+2024-11-11 01:50:48: User found. Stored Password: rawang.1
+2024-11-11 01:50:48: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:50:49: Redirecting to admin/home.php
+2024-11-11 01:52:13: Script started
+2024-11-11 01:52:13: Connected successfully to the database
+2024-11-11 01:52:13: Login attempt for username: krsh-admin
+2024-11-11 01:52:13: Query executed. Num rows: 1
+2024-11-11 01:52:13: User found. Stored Password: rawang.1
+2024-11-11 01:52:13: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:52:13: Redirecting to admin/home.php
+2024-11-11 01:54:41: Script started
+2024-11-11 01:54:41: Connected successfully to the database
+2024-11-11 01:54:41: Login attempt for username: krsh-admin
+2024-11-11 01:54:42: Query executed. Num rows: 1
+2024-11-11 01:54:42: User found. Stored Password: rawang.1
+2024-11-11 01:54:42: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:54:42: Redirecting to admin/home.php
+2024-11-11 01:54:52: Script started
+2024-11-11 01:54:52: Connected successfully to the database
+2024-11-11 01:54:52: Login attempt for username: krsh-admin
+2024-11-11 01:54:52: Query executed. Num rows: 1
+2024-11-11 01:54:52: User found. Stored Password: rawang.1
+2024-11-11 01:54:52: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:54:52: Redirecting to admin/home.php
+2024-11-11 01:56:12: Script started
+2024-11-11 01:56:12: Connected successfully to the database
+2024-11-11 01:56:12: Login attempt for username: hanisah.s
+2024-11-11 01:56:13: Query executed. Num rows: 1
+2024-11-11 01:56:13: User found. Stored Password: rawang.111
+2024-11-11 01:56:13: Session data set. UserLevel: Admin, StaffName: HANISAH SUHAILA BINTI MAZLAN, ServiceName: Purchasing
+2024-11-11 01:56:13: Redirecting to admin/home.php
+2024-11-11 01:58:34: Script started
+2024-11-11 01:58:34: Connected successfully to the database
+2024-11-11 01:58:34: Login attempt for username: krsh-admin
+2024-11-11 01:58:34: Query executed. Num rows: 1
+2024-11-11 01:58:35: User found. Stored Password: rawang.1
+2024-11-11 01:58:35: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:58:35: Redirecting to admin/home.php
+2024-11-11 01:59:26: Script started
+2024-11-11 01:59:26: Connected successfully to the database
+2024-11-11 01:59:26: Login attempt for username: krsh-admin
+2024-11-11 01:59:26: Query executed. Num rows: 1
+2024-11-11 01:59:26: User found. Stored Password: rawang.1
+2024-11-11 01:59:26: Session data set. UserLevel: Admin, StaffName: KRSH-ADMIN, ServiceName: Information Technology
+2024-11-11 01:59:26: Redirecting to admin/home.php

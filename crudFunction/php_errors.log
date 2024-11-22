@@ -1,0 +1,47 @@
+[09-Nov-2024 17:42:14 Europe/Berlin] Received POST data: Array
+(
+    [username] => aina
+    [password] => aina123
+    [staffName] => Aina Maisrah
+    [servicesName] => Purchasing
+    [userLevel] => Admin
+)
+
+[09-Nov-2024 17:42:14 Europe/Berlin] User registered successfully: aina
+[09-Nov-2024 18:01:18 Europe/Berlin] Received delete request for user_id: 0
+[09-Nov-2024 18:01:18 Europe/Berlin] Empty user_id received
+[09-Nov-2024 18:04:25 Europe/Berlin] Received delete request for user_id: 103
+[09-Nov-2024 18:04:25 Europe/Berlin] User deleted successfully: 103
+[09-Nov-2024 18:04:39 Europe/Berlin] Received delete request for user_id: 0
+[09-Nov-2024 18:04:39 Europe/Berlin] Empty user_id received
+[09-Nov-2024 18:05:38 Europe/Berlin] Received delete request for user_id: 103
+[09-Nov-2024 18:05:38 Europe/Berlin] User deleted successfully: 103
+[09-Nov-2024 18:12:00 Europe/Berlin] Received delete request for user_id: 0
+[09-Nov-2024 18:12:00 Europe/Berlin] Empty user_id received
+[09-Nov-2024 18:20:17 Europe/Berlin] Received delete request for user_id: 105
+[09-Nov-2024 18:20:17 Europe/Berlin] User deleted successfully: 105
+[09-Nov-2024 18:20:22 Europe/Berlin] Received delete request for user_id: 104
+[09-Nov-2024 18:20:22 Europe/Berlin] User deleted successfully: 104
+[09-Nov-2024 18:20:26 Europe/Berlin] Received delete request for user_id: 103
+[09-Nov-2024 18:20:26 Europe/Berlin] User deleted successfully: 103
+[09-Nov-2024 18:38:09 Europe/Berlin] Received delete request for user_id: 103
+[09-Nov-2024 18:38:09 Europe/Berlin] User deleted successfully: 103
+[09-Nov-2024 18:38:36 Europe/Berlin] Received delete request for user_id: 104
+[09-Nov-2024 18:38:36 Europe/Berlin] User deleted successfully: 104
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Warning:  Undefined array key "userId" in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 68
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 25
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Warning:  Undefined array key "username" in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 69
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 25
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Warning:  Undefined array key "staffName" in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 70
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 25
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Warning:  Undefined array key "serviceName" in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 71
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 25
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Warning:  Undefined array key "userlevel" in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 72
+[11-Nov-2024 05:18:32 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\stationery\crudFunction\editUser.php on line 25
+[11-Nov-2024 05:29:01 Europe/Berlin] Received delete request for user_id: 104
+[11-Nov-2024 05:29:01 Europe/Berlin] User deleted successfully: 104
+[11-Nov-2024 05:31:39 Europe/Berlin] Received delete request for user_id: 105
+[11-Nov-2024 05:31:39 Europe/Berlin] User deleted successfully: 105
+[12-Nov-2024 07:25:14 Europe/Berlin] Received delete request for user_id: 106
+[12-Nov-2024 07:25:14 Europe/Berlin] Deleted related orderdetails records for user_id: 106
+[12-Nov-2024 07:25:14 Europe/Berlin] User deleted successfully: 106
